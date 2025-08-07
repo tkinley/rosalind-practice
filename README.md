@@ -1,8 +1,3 @@
-diff --git a/README.md b/README.md
-index ea635528e0851d457f0587bfb88d4dd08eb07625..aa11db158cb8fe51a4191b53ba0f888f6fe4a551 100644
---- a/README.md
-+++ b/README.md
-@@ -1,2 +1,47 @@
  # rosalind-practice
 - My Python solutions for Rosalind bioinformatics problems
 +
